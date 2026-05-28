@@ -5,10 +5,10 @@ Pildora introductoria sobre SLMs y Ollama de carácter educativo
 
 > Los SLMs (Small Language Models o Modelos de Lenguaje Pequeños) son sistemas de inteligencia artificial diseñados para procesar y generar lenguaje natural de forma eficiente. A diferencia de los modelos gigantes (LLMs), cuentan con menos parámetros y están optimizados para ejecutarse localmente en dispositivos con recursos limitados.
 * [Fuente Microsoft]
-* 
+
 > Ollama es una plataforma gratuita y de código abierto que permite descargar, configurar y ejecutar Modelos de Lenguaje Grande (LLM) y Pequeño SLM directamente en tu propio ordenador. En lugar de depender de servidores en la nube como ChatGPT o Gemini, Ollama te permite tener tu propia inteligencia artificial operando de forma 100% local y privada.
 * [Fuente Xataca]
-* 
+
 ---
 
 ## 📢 Presentaciones
@@ -19,56 +19,27 @@ IA-Ligera glosario esencial https://gamma.app/docs/IA-Ligera-Glosario-Esencial-l
 ---
 
 ## 💾 Descargar programas
-
-
----
-
-# ----------------------------------------------------------------------------------------------------------------------
-
-
-
-## 💾 Descargar programas
-Descargar Power BI Desktop https://www.microsoft.com/es-es/download/details.aspx?id=58494
-
-Descargar Public Tableau https://www.tableau.com/es-es/products/public/download
+- Ollama -> https://ollama.com/
+- Ollama Download -> https://ollama.com/download
+- Ollama models -> https://ollama.com/search
 
 ---
 
-## 👨‍💻 Taller práctico
+## 🛠️ Comandos
 
-### Power BI
 
-**Que haremos**
-
-1.- Cargar un fichero excel con los datos.
-
-2.- Hacer pequeñas transformaciones de datos.
-
-3.- Manejar tablas de datos, gráficos de barras y circulares.
-
-4.- Manejar etiquetas, filtros y crear botón de restaurar datos al inicio.
-
-### Tableau
-
-**Que haremos**
-
-1.- Cargar un fichero excel con los datos.
-
-2.- Hacer pequeñas transformaciones de datos.
-
-3.- Manejar tablas de datos, gráficos de barras.
-
-4.- Crear un pequeño pronóstico.
 
 ---
-
 
 ## 🪄 Enlaces de interés
 
-1.- Curso Herramientas Power Excel. Power BI. Visualizaciones I. Vídeo 17 (Video de pildorasinformaticas.es de Juan Díaz)
+1.- Curso de Ollama 🦙: TODO lo que Necesitas Saber para una IA PRIVADA y segura -> https://www.youtube.com/watch?v=vOgISvkcF5k
 
-https://www.youtube.com/watch?v=AckPep24q-I
+2.- Curso de OLLAMA 2026: Tu propia Inteligencia Artificial en LOCAL (Instalación, Uso y Casos Reales) -> https://www.youtube.com/watch?v=FFjvZV05vxM
 
-2.- Aprende Tableau desde cero: Tutorial para principiantes (Video de Youtube de Jose Alejandro de Souza)
 
-https://www.youtube.com/watch?v=cYw8OvkwVVI&t=1159s
+
+
+
+
+
