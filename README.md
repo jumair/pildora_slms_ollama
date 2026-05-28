@@ -30,33 +30,33 @@ IA-Ligera glosario esencial https://gamma.app/docs/IA-Ligera-Glosario-Esencial-l
 
 ## 🛠️ Comandos de Ollama
 
-* ollama list -> Lista los modelos locales que tienes descargados.
-* ollama pull [nombre-modelo] -> Descarga el modelo en local.
+* **ollama list** -> Lista los modelos locales que tienes descargados.
+* **ollama pull [nombre-modelo]** -> Descarga el modelo en local.
   - por ejemplo : ollama pull llama3
-* ollama run [nombre-modelo] -> Ejecuta el modelo en la terminal y si no está decargado, lo descarga y luego lo ejecuta.
+* **ollama run [nombre-modelo]** -> Ejecuta el modelo en la terminal y si no está decargado, lo descarga y luego lo ejecuta.
   - por ejemplo : ollama run llama3
-* ollama show --parameters -> Ver parámetros del modelo.
+* **ollama show --parameters** -> Ver parámetros del modelo.
   - otras opciones : [--license, --modelfile, --system, --template]
-* ollama cp [nombre-modelo1] [nombre-modelo2] -> Hace una copia del modelo1 con otro nombre modelo2 para poder personalizarlo.
+* **ollama cp [nombre-modelo1] [nombre-modelo2]** -> Hace una copia del modelo1 con otro nombre modelo2 para poder personalizarlo.
   - por ejemplo : ollama cp llama3 mi_llama
-* ollama rm [nombre-modelo] -> Borra el modelo con ese nombre.
+* **ollama rm [nombre-modelo]** -> Borra el modelo con ese nombre.
   - por ejemplo : ollama rm mi_llama
-* ollama ps -> Revisa qué modelos se están ejecutando y usando tu memoria RAM en este momento.
+* **ollama ps** -> Revisa qué modelos se están ejecutando y usando tu memoria RAM en este momento.
 
 ---
 
 ## 🎇 Comandos dentro del modelo (una vez ejecutado el modelo)
 
-* /bye o /exit: Cierra la sesión, sale del chat y descarga el modelo de la memoria RAM.
-* /list: Muestra una lista de todos los modelos que tienes descargados en tu equipo.
-* /show: Muestra información sobre el modelo activo (parámetros, plantilla del sistema, etc.).
+* **/bye o /exit** : Cierra la sesión, sale del chat y descarga el modelo de la memoria RAM.
+* **/list** : Muestra una lista de todos los modelos que tienes descargados en tu equipo.
+* **/show** : Muestra información sobre el modelo activo (parámetros, plantilla del sistema, etc.).
   - Ejemplo: /show info o /show parameters.
-* /set: Modifica los parámetros del modelo en tiempo real.
+* **/set** : Modifica los parámetros del modelo en tiempo real.
   - Ejemplo para cambiar la creatividad: /set temperature 0.2 (valores cercanos a 0 son más precisos; cercanos a 1, más creativos).
   - Ejemplo para el contexto: /set num_ctx 4096 (aumenta el límite de memoria de la conversación).
-* /system: Permite cambiar las instrucciones del sistema en medio de la conversación.
+* **/system** : Permite cambiar las instrucciones del sistema en medio de la conversación.
   - Ejemplo: /system Eres un programador experto en Python.
-* /?: Muestra una lista completa con todos los comandos y atajos disponibles dentro de la ejecución
+* **/?** : Muestra una lista completa con todos los comandos y atajos disponibles dentro de la ejecución
 
 ---
 
