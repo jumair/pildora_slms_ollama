@@ -39,7 +39,7 @@ https://gamma.app/docs/IA-Ligera-Glosario-Esencial-lcbfkc40zcpm0c6
   - por ejemplo : ollama pull llama3
 * **ollama run [nombre-modelo]** -> Ejecuta el modelo en la terminal y si no está decargado, lo descarga y luego lo ejecuta.
   - por ejemplo : ollama run llama3
-* **ollama show --parameters** -> Ver parámetros del modelo.
+* **ollama show --parameters** [nombre-modelo] -> Ver parámetros del modelo.
   - otras opciones : [--license, --modelfile, --system, --template]
 * **ollama cp [nombre-modelo1] [nombre-modelo2]** -> Hace una copia del modelo1 con otro nombre modelo2 para poder personalizarlo.
   - por ejemplo : ollama cp llama3 mi_llama
