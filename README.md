@@ -70,7 +70,7 @@ https://gamma.app/docs/IA-Ligera-Glosario-Esencial-lcbfkc40zcpm0c6
 
 2.- Curso de OLLAMA 2026: Tu propia Inteligencia Artificial en LOCAL (Instalación, Uso y Casos Reales) -> https://www.youtube.com/watch?v=FFjvZV05vxM
 
-
+3.- Github de Ollama -> https://github.com/ollama/ollama
 
 
 
