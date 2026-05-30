@@ -15,9 +15,11 @@ Pildora introductoria sobre SLMs y Ollama de carácter educativo
 ## 📢 Presentaciones
 
 Modelos de lenguaje pequeños y eficientes 
+
 https://gamma.app/docs/Modelos-de-Lenguaje-Pequenos-y-Eficientes-wjkjird4w0leygo
 
 IA-Ligera glosario esencial 
+
 https://gamma.app/docs/IA-Ligera-Glosario-Esencial-lcbfkc40zcpm0c6
 
 ---
